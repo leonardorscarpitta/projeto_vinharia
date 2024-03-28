@@ -1,0 +1,51 @@
+.rodape {
+    padding: 2rem;
+    background: var(--paleta-vinharia);
+    display: flex;
+    justify-content: space-between;
+}
+
+.rodape__column {
+    display: flex;
+    flex-direction: column;
+}
+
+.rodape__column__header {
+    display: flex;
+    align-items: center;
+}
+
+.rodape__column__header__icon {
+    width: 1.6rem;
+    padding: 0 0.7rem 0 0;
+}
+
+.rodape__column__header__top {
+    font-size: 1rem;
+    color: var(--cor-fonte);
+    font-family: var(--fonte-site);
+    font-weight: 800;
+}
+
+.rodape__column__body__social {
+    margin: 0.3rem 0;
+}
+
+.rodape__column__body {
+    margin: 1.1rem 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.rodape__column__body__pic {
+    width: 1rem;
+    padding-right: 0.3rem;
+}
+
+.rodape__column__body__texto {
+    font-size: 1rem;
+    padding: 0.4rem 0;
+    color: var(--cor-fonte);
+    font-family: var(--fonte-site);
+    font-weight: 300;
+}
