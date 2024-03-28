@@ -1,3 +1,5 @@
+![banner-github](https://github.com/leonardorscarpitta/projeto_vinharia/assets/161969345/fec0939e-93f0-42dc-bfe6-2a402f1b4ce0)
+
 ### 🔖 **Descrição**:
 O "projeto_vinharia" é uma página web desenvolvida como parte de uma atividade de front-end da graduação. A página tem como tema uma vinharia que está começando com suas vendas na internet.
 
